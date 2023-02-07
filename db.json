@@ -1,14 +1,29 @@
+[{
+  roomTitle: "타이틀",
+  roomContent: "내용입니다",
+  roomPrivate: ture,
+  roomPassword: 1234,
+  roomLimitUser: 10,
+  roomKeyword: [1, 2],
+  roomPreset: "preset3"
+},
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  roomTitle: "2222",
+  roomContent: "2222",
+  roomPrivate: false,
+  roomPassword: "",
+  roomLimitUser: 5,
+  roomKeyword: [3],
+  roomPreset: "preset2"
+},
+ {
+  roomTitle: "3번ㅂㅂㅂㅂㅂㅂㅂㅂ",
+  roomContent: "ㅎㅈ와ㅣㅓㅚㅓㅁㅁ;",
+  roomPrivate: false,
+  roomPassword: "",
+  roomLimitUser: 8,
+  roomKeyword: [3, 1],
+  roomPreset: "preset5"
+}]
+  
