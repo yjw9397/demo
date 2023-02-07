@@ -1,29 +1,30 @@
-[{
-  roomTitle: "타이틀",
-  roomContent: "내용입니다",
-  roomPrivate: ture,
-  roomPassword: 1234,
-  roomLimitUser: 10,
-  roomKeyword: [1, 2],
-  roomPreset: "preset3"
-},
+[
+  {
+    "roomTitle": "타이틀",
+    "roomContent": "내용입니다",
+    "roomPrivate": true,
+    "roomPassword": 1234,
+    "roomLimitUser": 10,
+    "roomKeyword": [1, 2],
+    "roomPreset": "preset3"
+  },
 
-{
-  roomTitle: "2222",
-  roomContent: "2222",
-  roomPrivate: false,
-  roomPassword: "",
-  roomLimitUser: 5,
-  roomKeyword: [3],
-  roomPreset: "preset2"
-},
- {
-  roomTitle: "3번ㅂㅂㅂㅂㅂㅂㅂㅂ",
-  roomContent: "ㅎㅈ와ㅣㅓㅚㅓㅁㅁ;",
-  roomPrivate: false,
-  roomPassword: "",
-  roomLimitUser: 8,
-  roomKeyword: [3, 1],
-  roomPreset: "preset5"
-}]
-  
+  {
+    "roomTitle": "2222",
+    "roomContent": "2222",
+    "roomPrivate": false,
+    "roomPassword": "",
+    "roomLimitUser": 5,
+    "roomKeyword": [3],
+    "roomPreset": "preset2"
+  },
+  {
+    "roomTitle": "3번ㅂㅂㅂㅂㅂㅂㅂㅂ",
+    "roomContent": "ㅎㅈ와ㅣㅓㅚㅓㅁㅁ;",
+    "roomPrivate": false,
+    "roomPassword": "",
+    "roomLimitUser": 8,
+    "roomKeyword": [3, 1],
+    "roomPreset": "preset5"
+  }
+]
