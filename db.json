@@ -1,7 +1,7 @@
 {
   "room": [
     {
-      "roomId": 1,
+      "id": 1,
       "roomTitle": "타이틀",
       "roomContent": "내용입니다",
       "roomPrivate": true,
@@ -11,7 +11,7 @@
       "roomPreset": "preset3"
     },
     { 
-      "roomId": 2,
+      "id": 2,
       "roomTitle": "2222",
       "roomContent": "2222",
       "roomPrivate": false,
@@ -21,7 +21,7 @@
       "roomPreset": "preset2"
     },
     {
-      "roomId": 3,
+      "id": 3,
       "roomTitle": "3번ㅂㅂㅂㅂㅂㅂㅂㅂ",
       "roomContent": "ㅎㅈ와ㅣㅓㅚㅓㅁㅁ;",
       "roomPrivate": false,
