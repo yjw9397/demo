@@ -29,6 +29,26 @@
       "roomLimitUser": 8,
       "roomKeyword": [3, 1],
       "roomPreset": "preset5"
+    },
+    {
+      "id": 4,
+      "roomTitle": "4",
+      "roomContent": "방 설명",
+      "roomPrivate": true,
+      "roomPassword": "2222",
+      "roomLimitUser": 7,
+      "roomKeyword": [2],
+      "roomPreset": "preset1"
+    },
+    {
+      "id": 5,
+      "roomTitle": "5번째 방",
+      "roomContent": "55555555",
+      "roomPrivate": false,
+      "roomPassword": "",
+      "roomLimitUser": 2,
+      "roomKeyword": [],
+      "roomPreset": "preset4"
     }
   ]
 }
