@@ -1,26 +1,26 @@
 {
-  "uerId" : 1,
-  "quizTale" : 0,
+  "uerId": 1,
+  "quizTale": 0,
   "quizItems": [
     {
       "id": 1,
       "name": "APPLE",
-      "IsSuccess": true,
+      "IsSuccess": true
     },
-    { 
+    {
       "id": 2,
       "name": "FLOWER",
-      "IsSuccess": false,
+      "IsSuccess": false
     },
     {
       "id": 3,
       "name": "CROWN",
-      "IsSuccess": true,
+      "IsSuccess": true
     },
     {
       "id": 4,
       "name": "MIRROR",
-      "IsSuccess": false,
-    },
+      "IsSuccess": false
+    }
   ]
 }
