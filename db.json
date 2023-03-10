@@ -1,54 +1,26 @@
 {
-  "room": [
+  "uerId" : 1,
+  "auizTale" : 0,
+  "quizItems": [
     {
       "id": 1,
-      "roomTitle": "타이틀",
-      "roomContent": "내용입니다",
-      "roomPrivate": true,
-      "roomPassword": 1234,
-      "roomLimitUser": 10,
-      "roomKeyword": [1, 2],
-      "roomPreset": "preset3"
+      "name": "APPLE",
+      "IsSuccess": ture,
     },
     { 
       "id": 2,
-      "roomTitle": "2222",
-      "roomContent": "2222",
-      "roomPrivate": false,
-      "roomPassword": "",
-      "roomLimitUser": 5,
-      "roomKeyword": [3],
-      "roomPreset": "preset2"
+      "name": "FLOWER",
+      "IsSuccess": false,
     },
     {
       "id": 3,
-      "roomTitle": "3번ㅂㅂㅂㅂㅂㅂㅂㅂ",
-      "roomContent": "ㅎㅈ와ㅣㅓㅚㅓㅁㅁ;",
-      "roomPrivate": false,
-      "roomPassword": "",
-      "roomLimitUser": 8,
-      "roomKeyword": [3, 1],
-      "roomPreset": "preset5"
+      "name": "CROWN",
+      "IsSuccess": ture,
     },
     {
       "id": 4,
-      "roomTitle": "4",
-      "roomContent": "방 설명",
-      "roomPrivate": true,
-      "roomPassword": "2222",
-      "roomLimitUser": 7,
-      "roomKeyword": [2],
-      "roomPreset": "preset1"
+      "name": "MIRROR",
+      "IsSuccess": false,
     },
-    {
-      "id": 5,
-      "roomTitle": "5번째 방",
-      "roomContent": "55555555",
-      "roomPrivate": false,
-      "roomPassword": "",
-      "roomLimitUser": 2,
-      "roomKeyword": [],
-      "roomPreset": "preset4"
-    }
   ]
 }
